@@ -9,7 +9,7 @@
 
 	<properties>
 		<org.springframework-version>4.0.1.RELEASE</org.springframework-version>
-	</properties>
+	</properties> 
 
 	<dependencies>
 		<dependency>
