@@ -1,7 +1,7 @@
 
 ### Overview
 
-A chat sample using Spring MVC 3.2, Servlet-based, async request processing. Also see the [redis](https://github.com/rstoyanchev/spring-mvc-chat/tree/redis) branch for a distributed chat. 
+A chat sample using Spring MVC 3.2, Servlet-based, async request processing.  
 
 ### Note
 
